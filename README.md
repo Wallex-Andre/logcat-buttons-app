@@ -20,7 +20,7 @@ A tela exibe quatro botões. Cada um aciona um nível diferente de log ao ser cl
 ## Screenshots
 
 ### Tela do app
-![App](screenshots/app.png)
+<img src="screenshots/app.png" width="300"/>
 
 ### Saída no Logcat
 ![Logcat](screenshots/logcat.png)
